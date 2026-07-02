@@ -34,6 +34,11 @@ wheels/
 *~
 .DS_Store
 
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
 # Logs
 *.log
 sistem.log
